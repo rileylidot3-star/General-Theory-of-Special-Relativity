@@ -1,4 +1,4 @@
-# Special Relativity Lecture 1   Professor Leonard Swisskind
+# Special Relativity Lecture 1 Stanford Professor Leonard Swisskind
 
 ## Professor’s Introduction: Research Context and Motivation
 
